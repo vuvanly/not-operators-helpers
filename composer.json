@@ -2,7 +2,7 @@
     "name": "vuvanly/not-operators-helpers",
     "description": "Define function for NOT operators of built-in functions in PHP",
     "type": "library",
-    "license": "MIT License",
+    "license": "UNLICENSED",
     "authors": [
         {
             "name": "Vu Van Ly",
