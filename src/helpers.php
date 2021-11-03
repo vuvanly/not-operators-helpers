@@ -14,7 +14,7 @@ if (! function_exists('is_not_array')) {
 
 if (! function_exists('is_not_bool')) {
     function is_not_bool($value) {
-        return ! is_not_bool($value);
+        return ! is_bool($value);
     }
 }
 
